@@ -1,6 +1,6 @@
 # script probatinas plasencia
 1-2
-Alicia
+Ali
 # pero que va n0?
-1-2=4
+1+2=4
 jkjasdfh
